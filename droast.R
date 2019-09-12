@@ -1,7 +1,7 @@
 library(dplyr)
 #library(hms)
 
-data <- read.csv('Report Item Details.csv')
+data <- read.csv('https://raw.githubusercontent.com/ferdeh/droast/master/Report%20Item%20Details.csv')
 head(data)
 #data<- as.data.frame(data,stringsAsFactors = FALSE)
 data<- select(data,Receipt.Number, Date, Time,Category,Items,Variant,Gross.Sales)
