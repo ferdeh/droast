@@ -1,0 +1,661 @@
+Outlet,Receipt Number,Date,Time,Category,Items,Variant,Modifier Applied,Gross Sales,Discounts,Refunds,Net Sales,Gratuity,Tax,Sales Type,Collected By,Served By,Customer,Event Type,Payment Method
+Outlet 1,3BO4YA,10-09-2019,21:01:55,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4Y9,10-09-2019,19:34:43,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4Y8,10-09-2019,16:50:37,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4Y7,10-09-2019,16:19:47,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4Y6,10-09-2019,15:17:09,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4Y5,10-09-2019,13:05:36,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4Y4,10-09-2019,12:20:03,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4Y4,10-09-2019,12:20:03,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4Y3,10-09-2019,11:39:26,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4Y2,09-09-2019,21:07:49,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4Y1,09-09-2019,19:11:22,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4Y0,09-09-2019,19:07:50,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4XZ,09-09-2019,17:59:53,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4XY,09-09-2019,17:27:48,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4XX,09-09-2019,16:56:11,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4XW,09-09-2019,16:31:38,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4XW,09-09-2019,16:31:38,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4XW,09-09-2019,16:31:38,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4XV,08-09-2019,21:04:17,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4XU,08-09-2019,19:25:18,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4XT,08-09-2019,17:24:59,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4XS,08-09-2019,16:59:41,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4XR,08-09-2019,15:17:24,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4XR,08-09-2019,15:17:24,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4XQ,08-09-2019,12:10:06,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4XQ,08-09-2019,12:10:06,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4XQ,08-09-2019,12:10:06,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4XQ,08-09-2019,12:10:06,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4XP,07-09-2019,20:37:23,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4XO,07-09-2019,19:27:41,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4XN,07-09-2019,17:19:41,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4XM,07-09-2019,17:19:30,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4XM,07-09-2019,17:19:30,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4XL,06-09-2019,21:04:04,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4XK,06-09-2019,20:07:39,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4XJ,06-09-2019,19:30:37,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4XI,06-09-2019,18:31:14,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4XH,06-09-2019,13:45:00,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4XG,05-09-2019,21:06:35,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4XF,05-09-2019,20:25:31,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4XE,05-09-2019,17:05:27,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4XD,05-09-2019,17:02:09,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4XC,05-09-2019,16:49:09,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4XC,05-09-2019,16:49:09,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4XB,05-09-2019,16:25:27,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4XA,05-09-2019,11:35:16,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4X9,04-09-2019,21:18:12,Uncategorized,nasi putih,"","",4000,0,0,4000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4X8,04-09-2019,20:00:28,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4X8,04-09-2019,20:00:28,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4X7,04-09-2019,19:20:58,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,+6281285887021,Payment,Cash
+Outlet 1,3BO4X6,04-09-2019,16:36:53,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4X5,04-09-2019,15:51:42,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4X4,04-09-2019,15:36:09,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4X3,04-09-2019,12:25:59,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4X2,04-09-2019,10:52:34,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4X2,04-09-2019,10:52:34,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4X2,04-09-2019,10:52:34,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4X2,04-09-2019,10:52:34,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4X1,03-09-2019,21:37:40,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4X0,03-09-2019,19:10:37,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4WZ,03-09-2019,18:58:50,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4WY,03-09-2019,17:31:05,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4WX,03-09-2019,16:14:39,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4WW,03-09-2019,16:13:10,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4WW,03-09-2019,16:13:10,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4WW,03-09-2019,16:13:10,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4WV,03-09-2019,10:07:31,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4WU,02-09-2019,21:25:14,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4WT,02-09-2019,20:51:57,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4WS,02-09-2019,19:09:09,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4WR,02-09-2019,17:33:08,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4WQ,02-09-2019,15:58:19,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4WP,02-09-2019,15:42:55,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4WO,02-09-2019,13:56:06,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4WN,02-09-2019,13:27:15,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4WM,02-09-2019,12:13:37,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4WL,02-09-2019,11:42:07,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4WK,01-09-2019,19:21:42,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4WJ,01-09-2019,18:31:16,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4WI,01-09-2019,17:08:38,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4WH,01-09-2019,16:43:57,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4WG,01-09-2019,13:43:13,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4WF,01-09-2019,13:43:03,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4WE,01-09-2019,11:16:37,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4WD,31-08-2019,20:20:35,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4WC,31-08-2019,19:34:02,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4WB,31-08-2019,17:19:55,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4WA,31-08-2019,16:48:28,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4W9,31-08-2019,16:03:02,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4W8,31-08-2019,15:40:26,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4W7,31-08-2019,15:15:00,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4W6,31-08-2019,14:19:41,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4W5,31-08-2019,14:08:25,Uncategorized,nasi putih,"","",4000,0,0,4000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4W5,31-08-2019,14:08:25,Uncategorized,nasi putih,"","",4000,0,0,4000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4W5,31-08-2019,14:08:25,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4W4,31-08-2019,10:48:11,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4W3,30-08-2019,20:30:42,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4W3,30-08-2019,20:30:42,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4W1,30-08-2019,19:33:24,Ayam,Full Refund For: 3BO4W1 - Ayam Panggang,1/2 Ekor,"",0,-0,32000,-32000,-0,-0,Take Away,D'ROAST ,"","",Refund,Cash
+Outlet 1,3BO4W2,30-08-2019,19:32:15,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4W1,30-08-2019,19:26:21,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4W0,30-08-2019,19:18:43,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4W0,30-08-2019,19:18:43,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4VZ,30-08-2019,17:55:57,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4VY,30-08-2019,17:53:26,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4VX,30-08-2019,16:30:48,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4VW,30-08-2019,16:13:55,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4VV,30-08-2019,14:46:35,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4VU,30-08-2019,10:47:28,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4VT,30-08-2019,10:23:51,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4VS,29-08-2019,19:43:19,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4VR,29-08-2019,19:41:33,Uncategorized,nasi putih,"","",4000,0,0,4000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4VR,29-08-2019,19:41:33,Uncategorized,nasi putih,"","",4000,0,0,4000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4VQ,29-08-2019,19:40:04,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4VP,29-08-2019,19:39:43,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4VO,29-08-2019,19:39:30,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4VN,29-08-2019,18:40:27,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4VM,29-08-2019,18:40:10,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4VL,29-08-2019,16:30:53,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4VL,29-08-2019,16:30:53,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4VK,28-08-2019,21:16:36,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4VJ,28-08-2019,21:15:43,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4VJ,28-08-2019,21:15:43,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4VI,28-08-2019,20:17:05,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4VH,28-08-2019,19:12:20,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4VG,28-08-2019,18:05:29,Uncategorized,nasi putih,"","",4000,0,0,4000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4VG,28-08-2019,18:05:29,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4VF,28-08-2019,16:54:32,Uncategorized,nasi putih,"","",4000,0,0,4000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4VF,28-08-2019,16:54:32,Uncategorized,nasi putih,"","",4000,0,0,4000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4VF,28-08-2019,16:54:32,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4VF,28-08-2019,16:54:32,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4VE,28-08-2019,14:04:28,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4VD,28-08-2019,14:03:34,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4VD,28-08-2019,14:03:34,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4VC,28-08-2019,11:32:34,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4VB,27-08-2019,19:51:56,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4VB,27-08-2019,19:51:56,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4VA,27-08-2019,17:42:44,Uncategorized,nasi putih,"","",4000,0,0,4000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4VA,27-08-2019,17:42:44,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4VA,27-08-2019,17:42:44,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4V9,27-08-2019,16:57:29,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4V8,27-08-2019,16:39:12,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4V7,27-08-2019,16:05:21,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4V7,27-08-2019,16:05:21,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4V6,27-08-2019,14:01:34,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4V6,27-08-2019,14:01:34,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4V5,10-08-2019,21:18:33,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4V4,10-08-2019,21:07:31,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4V3,10-08-2019,21:06:44,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4V3,10-08-2019,21:06:44,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4V2,10-08-2019,17:38:35,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4V1,10-08-2019,16:20:47,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4V1,10-08-2019,16:20:47,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4V0,10-08-2019,16:14:55,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4UZ,10-08-2019,14:31:04,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4UY,10-08-2019,12:54:16,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4UX,10-08-2019,12:36:56,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4UW,10-08-2019,12:36:06,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4UV,10-08-2019,10:42:33,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4UU,09-08-2019,21:19:41,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4UT,09-08-2019,21:19:19,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4UT,09-08-2019,21:19:19,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4US,09-08-2019,20:13:22,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4UR,09-08-2019,18:43:16,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4UQ,09-08-2019,18:32:33,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4UQ,09-08-2019,18:32:33,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4UN,09-08-2019,18:21:33,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4UM,09-08-2019,16:00:34,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4UM,09-08-2019,16:00:34,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4UL,09-08-2019,16:00:00,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4UL,09-08-2019,16:00:00,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4UK,08-08-2019,21:28:23,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4UK,08-08-2019,21:28:23,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4UK,08-08-2019,21:28:23,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4UJ,08-08-2019,21:22:16,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4UI,08-08-2019,21:10:12,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4UH,08-08-2019,18:56:48,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4UG,08-08-2019,18:51:55,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4UF,08-08-2019,17:54:27,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4UF,08-08-2019,17:54:27,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4UF,08-08-2019,17:54:27,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4UF,08-08-2019,17:54:27,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4UF,08-08-2019,17:54:27,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4UE,08-08-2019,17:53:02,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4UD,08-08-2019,17:52:46,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4UC,07-08-2019,20:31:54,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4UC,07-08-2019,20:31:54,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4UB,07-08-2019,19:07:46,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4UA,07-08-2019,17:51:02,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4UA,07-08-2019,17:51:02,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4U9,07-08-2019,17:50:45,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4U9,07-08-2019,17:50:45,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4U9,07-08-2019,17:50:45,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4U9,07-08-2019,17:50:45,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4U9,07-08-2019,17:50:45,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4U9,07-08-2019,17:50:45,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4U8,07-08-2019,12:17:32,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4U7,06-08-2019,21:20:19,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4U6,06-08-2019,21:19:46,Ayam,Full Refund For: 3BO4U6 - Ayam Panggang,1 Ekor,"",0,-0,60000,-60000,-0,-0,Take Away,D'ROAST ,"","",Refund,Cash
+Outlet 1,3BO4U6,06-08-2019,19:31:16,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4U5,06-08-2019,19:10:54,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4U4,06-08-2019,19:08:45,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4U4,06-08-2019,19:08:45,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4U3,06-08-2019,17:59:10,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4U3,06-08-2019,17:59:10,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4U3,06-08-2019,17:59:10,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4U2,06-08-2019,17:11:38,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4U1,06-08-2019,16:56:37,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4U0,06-08-2019,15:40:36,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TZ,06-08-2019,14:29:02,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TY,06-08-2019,14:10:03,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TY,06-08-2019,14:10:03,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TX,05-08-2019,19:41:45,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TX,05-08-2019,19:41:45,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TX,05-08-2019,19:41:45,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TX,05-08-2019,19:41:45,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TX,05-08-2019,19:41:45,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TX,05-08-2019,19:41:45,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TX,05-08-2019,19:41:45,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TX,05-08-2019,19:41:45,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TW,05-08-2019,15:54:34,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TW,05-08-2019,15:54:34,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TW,05-08-2019,15:54:34,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TW,05-08-2019,15:54:34,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TV,05-08-2019,14:41:48,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TU,05-08-2019,14:19:52,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TT,05-08-2019,10:26:04,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TS,04-08-2019,20:49:07,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TR,04-08-2019,14:33:09,Barang titipan,Kentang kering,"","",25000,0,0,25000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TR,04-08-2019,14:33:09,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TR,04-08-2019,14:33:09,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TQ,03-08-2019,20:55:06,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TP,03-08-2019,20:33:23,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TO,03-08-2019,19:35:19,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TN,03-08-2019,19:00:59,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TM,03-08-2019,17:57:28,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TM,03-08-2019,17:57:28,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TM,03-08-2019,17:57:28,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TL,03-08-2019,17:31:04,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TK,03-08-2019,16:45:20,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TJ,03-08-2019,15:32:27,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TI,03-08-2019,14:49:25,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TH,03-08-2019,12:12:30,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,+6285777992320,Payment,Cash
+Outlet 1,3BO4TH,03-08-2019,12:12:30,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,+6285777992320,Payment,Cash
+Outlet 1,3BO4TG,03-08-2019,11:47:28,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4T9,02-08-2019,20:17:31,Ayam,Full Refund For: 3BO4T9 - Ayam Panggang,1 Ekor,"",0,-0,60000,-60000,-0,-0,Take Away,D'ROAST ,"","",Refund,Cash
+Outlet 1,3BO4TF,02-08-2019,20:11:43,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TF,02-08-2019,20:11:43,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TE,02-08-2019,19:36:37,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TE,02-08-2019,19:36:37,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TD,02-08-2019,18:54:22,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TD,02-08-2019,18:54:22,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TC,02-08-2019,18:35:21,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TB,02-08-2019,18:34:56,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TB,02-08-2019,18:34:56,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TA,02-08-2019,18:07:49,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4TA,02-08-2019,18:07:49,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4T9,02-08-2019,17:04:20,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4T8,02-08-2019,17:03:14,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,+6282123999301,Payment,Cash
+Outlet 1,3BO4T8,02-08-2019,17:03:14,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,+6282123999301,Payment,Cash
+Outlet 1,3BO4T7,02-08-2019,15:55:30,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4T6,02-08-2019,14:45:28,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4T5,02-08-2019,14:10:00,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4T4,02-08-2019,13:14:08,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4T3,02-08-2019,13:08:38,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4T2,02-08-2019,09:13:36,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4T1,01-08-2019,21:18:45,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4T0,01-08-2019,20:13:36,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4T0,01-08-2019,20:13:36,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4SZ,01-08-2019,19:36:04,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4SY,01-08-2019,19:06:18,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4SX,01-08-2019,18:56:52,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4SW,01-08-2019,18:08:12,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4SV,01-08-2019,17:44:58,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4SV,01-08-2019,17:44:58,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4SU,01-08-2019,17:02:34,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4ST,01-08-2019,15:27:53,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4ST,01-08-2019,15:27:53,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4SS,01-08-2019,15:13:08,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,+6289644773819,Payment,Cash
+Outlet 1,3BO4SS,01-08-2019,15:13:08,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,+6289644773819,Payment,Cash
+Outlet 1,3BO4SR,01-08-2019,14:25:41,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4SQ,01-08-2019,13:18:35,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4SP,01-08-2019,13:18:06,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4SO,01-08-2019,11:40:40,Uncategorized,nasi putih,"","",4000,0,0,4000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4SO,01-08-2019,11:40:40,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4SO,01-08-2019,11:40:40,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4SN,31-07-2019,19:28:02,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4SM,31-07-2019,18:59:51,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4SL,31-07-2019,18:58:15,Uncategorized,nasi putih,"","",4000,0,0,4000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4SL,31-07-2019,18:58:15,Uncategorized,nasi putih,"","",4000,0,0,4000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4SL,31-07-2019,18:58:15,Uncategorized,nasi putih,"","",4000,0,0,4000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4SL,31-07-2019,18:58:15,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4SK,31-07-2019,17:57:05,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4SJ,31-07-2019,17:07:38,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4SI,31-07-2019,15:45:49,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4SI,31-07-2019,15:45:49,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4SH,31-07-2019,11:30:46,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4SH,31-07-2019,11:30:46,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4SG,30-07-2019,21:22:55,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4SF,30-07-2019,20:48:23,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4SE,30-07-2019,20:24:55,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4SD,30-07-2019,20:15:38,Uncategorized,nasi putih,"","",4000,0,0,4000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4SD,30-07-2019,20:15:38,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4SC,30-07-2019,19:46:39,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4SC,30-07-2019,19:46:39,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4SB,30-07-2019,18:09:33,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4SA,30-07-2019,17:44:44,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4S9,30-07-2019,17:28:26,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4S8,30-07-2019,16:17:31,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4S7,30-07-2019,16:09:20,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4S6,30-07-2019,15:29:11,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4S5,30-07-2019,14:49:53,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4S4,30-07-2019,14:46:49,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4S3,30-07-2019,11:53:46,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4S3,30-07-2019,11:53:46,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4S2,29-07-2019,21:22:50,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4S1,29-07-2019,20:01:34,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4S0,29-07-2019,19:16:42,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RZ,29-07-2019,18:34:41,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RY,29-07-2019,18:12:05,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RY,29-07-2019,18:12:05,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RX,29-07-2019,17:52:06,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RX,29-07-2019,17:52:06,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RW,29-07-2019,16:59:53,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RV,29-07-2019,16:13:09,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RV,29-07-2019,16:13:09,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RU,29-07-2019,11:06:50,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RU,29-07-2019,11:06:50,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RU,29-07-2019,11:06:50,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RT,28-07-2019,20:04:26,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RS,28-07-2019,19:25:18,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RR,28-07-2019,19:18:43,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RQ,28-07-2019,18:27:24,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RP,28-07-2019,16:46:34,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RP,28-07-2019,16:46:34,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RO,28-07-2019,14:56:36,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RO,28-07-2019,14:56:36,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RN,28-07-2019,14:14:13,Uncategorized,nasi putih,"","",4000,0,0,4000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RN,28-07-2019,14:14:13,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RM,28-07-2019,13:59:56,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RL,28-07-2019,12:36:56,Uncategorized,nasi putih,"","",4000,0,0,4000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RL,28-07-2019,12:36:56,Uncategorized,nasi putih,"","",4000,0,0,4000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RL,28-07-2019,12:36:56,Uncategorized,nasi putih,"","",4000,0,0,4000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RL,28-07-2019,12:36:56,Uncategorized,nasi putih,"","",4000,0,0,4000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RL,28-07-2019,12:36:56,Uncategorized,nasi putih,"","",4000,0,0,4000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RL,28-07-2019,12:36:56,Uncategorized,nasi putih,"","",4000,0,0,4000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RL,28-07-2019,12:36:56,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RK,28-07-2019,12:36:36,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RJ,28-07-2019,12:35:03,Uncategorized,Full Refund For: 3BO4RJ - nasi putih,"","",0,-0,4000,-4000,-0,-0,Dine in,D'ROAST ,"","",Refund,Cash
+Outlet 1,3BO4RJ,28-07-2019,12:35:03,Uncategorized,Full Refund For: 3BO4RJ - nasi putih,"","",0,-0,4000,-4000,-0,-0,Dine in,D'ROAST ,"","",Refund,Cash
+Outlet 1,3BO4RJ,28-07-2019,12:35:03,Uncategorized,Full Refund For: 3BO4RJ - nasi putih,"","",0,-0,4000,-4000,-0,-0,Dine in,D'ROAST ,"","",Refund,Cash
+Outlet 1,3BO4RJ,28-07-2019,12:35:03,Uncategorized,Full Refund For: 3BO4RJ - nasi putih,"","",0,-0,4000,-4000,-0,-0,Dine in,D'ROAST ,"","",Refund,Cash
+Outlet 1,3BO4RJ,28-07-2019,12:35:03,Uncategorized,Full Refund For: 3BO4RJ - nasi putih,"","",0,-0,4000,-4000,-0,-0,Dine in,D'ROAST ,"","",Refund,Cash
+Outlet 1,3BO4RJ,28-07-2019,12:35:03,Uncategorized,Full Refund For: 3BO4RJ - nasi putih,"","",0,-0,4000,-4000,-0,-0,Dine in,D'ROAST ,"","",Refund,Cash
+Outlet 1,3BO4RJ,28-07-2019,12:35:03,Ayam,Full Refund For: 3BO4RJ - Ayam Panggang,1/2 Ekor,"",0,-0,32000,-32000,-0,-0,Take Away,D'ROAST ,"","",Refund,Cash
+Outlet 1,3BO4RJ,28-07-2019,12:35:03,Ayam,Full Refund For: 3BO4RJ - Ayam Panggang,1 Ekor,"",0,-0,60000,-60000,-0,-0,Take Away,D'ROAST ,"","",Refund,Cash
+Outlet 1,3BO4RJ,28-07-2019,12:34:07,Uncategorized,nasi putih,"","",4000,0,0,4000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RJ,28-07-2019,12:34:07,Uncategorized,nasi putih,"","",4000,0,0,4000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RJ,28-07-2019,12:34:07,Uncategorized,nasi putih,"","",4000,0,0,4000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RJ,28-07-2019,12:34:07,Uncategorized,nasi putih,"","",4000,0,0,4000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RJ,28-07-2019,12:34:07,Uncategorized,nasi putih,"","",4000,0,0,4000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RJ,28-07-2019,12:34:07,Uncategorized,nasi putih,"","",4000,0,0,4000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RJ,28-07-2019,12:34:07,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RJ,28-07-2019,12:34:07,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RI,27-07-2019,21:28:28,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RH,27-07-2019,21:22:37,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RH,27-07-2019,21:22:37,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RH,27-07-2019,21:22:37,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RG,27-07-2019,18:15:48,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RF,27-07-2019,17:30:46,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RE,27-07-2019,15:13:17,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RD,27-07-2019,14:33:27,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RC,27-07-2019,13:47:05,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RB,27-07-2019,13:42:21,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RB,27-07-2019,13:42:21,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4RA,27-07-2019,12:51:53,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4R9,27-07-2019,12:27:19,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4R8,27-07-2019,11:15:09,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4R7,27-07-2019,11:11:56,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4R6,26-07-2019,19:44:11,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4R5,26-07-2019,19:42:27,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4R4,26-07-2019,18:49:36,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4R3,26-07-2019,18:31:23,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4R2,26-07-2019,17:55:05,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4R1,26-07-2019,16:48:41,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4R0,26-07-2019,16:22:50,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4QZ,26-07-2019,15:07:17,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4QY,26-07-2019,13:32:06,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4QY,26-07-2019,13:32:06,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4QX,26-07-2019,12:43:13,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4QX,26-07-2019,12:43:13,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4QW,26-07-2019,11:10:31,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4QV,26-07-2019,11:10:02,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4QU,25-07-2019,21:16:20,Uncategorized,nasi putih,"","",4000,0,0,4000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4QT,25-07-2019,21:13:24,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4QS,25-07-2019,20:48:29,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4QS,25-07-2019,20:48:29,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4QR,25-07-2019,19:36:32,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4QQ,25-07-2019,18:49:47,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4QP,25-07-2019,18:28:42,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4QO,25-07-2019,17:34:49,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4QN,25-07-2019,16:29:52,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4QM,25-07-2019,12:49:57,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4QL,25-07-2019,12:22:25,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4QK,25-07-2019,12:04:39,Uncategorized,nasi putih,"","",4000,0,0,4000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4QK,25-07-2019,12:04:39,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4QJ,25-07-2019,11:51:42,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4QI,24-07-2019,19:48:17,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4QI,24-07-2019,19:48:17,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4QH,24-07-2019,18:25:37,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4QH,24-07-2019,18:25:37,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4QG,24-07-2019,17:04:20,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4QF,24-07-2019,16:45:47,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4QE,24-07-2019,16:06:10,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4QD,24-07-2019,10:14:56,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4QC,23-07-2019,21:38:36,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4QB,23-07-2019,20:06:49,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4QB,23-07-2019,20:06:49,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4QA,23-07-2019,19:50:16,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4Q9,23-07-2019,18:57:51,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4Q9,23-07-2019,18:57:51,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4Q8,23-07-2019,17:48:09,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4Q7,22-07-2019,19:42:10,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4Q7,22-07-2019,19:42:10,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4Q7,22-07-2019,19:42:10,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4Q7,22-07-2019,19:42:10,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4Q6,22-07-2019,18:42:46,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4Q5,22-07-2019,15:09:07,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4Q5,22-07-2019,15:09:07,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4Q5,22-07-2019,15:09:07,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4Q3,21-07-2019,20:32:44,GOFOOD,Full Refund For: 3BO4Q3 - Ayam Panggang GOFOOD,1/2 Ekor,"",0,-0,40000,-40000,-0,-0,Take Away,D'ROAST ,"","",Refund,Cash
+Outlet 1,3BO4Q3,21-07-2019,20:32:44,GOFOOD,Full Refund For: 3BO4Q3 - Ayam Panggang GOFOOD,1 Ekor,"",0,-0,75000,-75000,-0,-0,Take Away,D'ROAST ,"","",Refund,Cash
+Outlet 1,3BO4Q3,21-07-2019,20:32:44,GOFOOD,Full Refund For: 3BO4Q3 - Ayam Panggang GOFOOD,1 Ekor,"",0,-0,75000,-75000,-0,-0,Take Away,D'ROAST ,"","",Refund,Cash
+Outlet 1,3BO4Q4,21-07-2019,20:31:02,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4Q3,21-07-2019,20:30:21,GOFOOD,Ayam Panggang GOFOOD,1/2 Ekor,"",40000,0,0,40000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4Q3,21-07-2019,20:30:21,GOFOOD,Ayam Panggang GOFOOD,1 Ekor,"",75000,0,0,75000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4Q3,21-07-2019,20:30:21,GOFOOD,Ayam Panggang GOFOOD,1 Ekor,"",75000,0,0,75000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4Q2,21-07-2019,20:27:18,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4Q2,21-07-2019,20:27:18,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4Q2,21-07-2019,20:27:18,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4Q1,21-07-2019,17:23:29,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4Q0,21-07-2019,14:47:01,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4PZ,21-07-2019,14:14:14,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4PY,21-07-2019,13:39:12,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4PX,21-07-2019,13:25:35,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4PX,21-07-2019,13:25:35,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4PW,21-07-2019,13:25:17,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4PW,21-07-2019,13:25:17,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4PW,21-07-2019,13:25:17,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4PV,20-07-2019,18:28:03,Barang titipan,Tempe kering,"","",18000,0,0,18000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4PU,20-07-2019,17:20:39,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4PU,20-07-2019,17:20:39,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4PU,20-07-2019,17:20:39,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4PT,20-07-2019,17:20:18,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4PT,20-07-2019,17:20:18,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4PS,20-07-2019,17:02:09,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4PR,20-07-2019,16:59:09,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4PR,20-07-2019,16:59:09,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4PR,20-07-2019,16:59:09,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4PQ,20-07-2019,16:26:54,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4PP,20-07-2019,15:57:20,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4PO,20-07-2019,14:29:06,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4PO,20-07-2019,14:29:06,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4PN,20-07-2019,13:09:11,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4PM,20-07-2019,12:40:15,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4PL,20-07-2019,12:12:45,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4PK,20-07-2019,12:12:31,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4PK,20-07-2019,12:12:31,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4PJ,20-07-2019,11:04:22,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4PI,20-07-2019,11:00:30,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4PH,19-07-2019,21:34:23,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4PG,19-07-2019,20:58:00,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4PF,19-07-2019,20:29:13,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4PE,19-07-2019,19:38:44,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4PD,19-07-2019,18:58:18,Barang titipan,Tempe kering,"","",18000,0,0,18000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4PC,19-07-2019,17:17:22,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4PB,19-07-2019,17:10:17,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4PA,19-07-2019,17:08:30,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4P9,19-07-2019,14:10:46,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4P9,19-07-2019,14:10:46,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4P8,19-07-2019,14:09:15,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4P8,19-07-2019,14:09:15,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4P8,19-07-2019,14:09:15,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4P7,19-07-2019,11:29:35,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4P5,18-07-2019,21:26:59,Ayam,Full Refund For: 3BO4P5 - Ayam Panggang,1/2 Ekor,"",0,-0,32000,-32000,-0,-0,Take Away,D'ROAST ,"","",Refund,Cash
+Outlet 1,3BO4P2,18-07-2019,21:26:18,Ayam,Partial Refund For: 3BO4P2 - Ayam Panggang,1/2 Ekor,"",0,-0,32000,-32000,-0,-0,Take Away,D'ROAST ,"","",Refund,Cash
+Outlet 1,3BO4P6,18-07-2019,21:23:42,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4P6,18-07-2019,21:23:42,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4P5,18-07-2019,21:14:37,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4P4,18-07-2019,20:23:55,Uncategorized,nasi putih,"","",4000,0,0,4000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4P3,18-07-2019,20:19:26,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4P2,18-07-2019,20:19:12,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4P2,18-07-2019,20:19:12,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4P1,18-07-2019,20:18:50,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4P1,18-07-2019,20:18:50,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4P0,18-07-2019,17:37:16,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4OZ,18-07-2019,10:01:59,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4OY,17-07-2019,20:44:30,Uncategorized,nasi putih,"","",4000,0,0,4000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4OY,17-07-2019,20:44:30,Uncategorized,nasi putih,"","",4000,0,0,4000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4OX,17-07-2019,20:41:31,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4OW,17-07-2019,20:32:25,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4OW,17-07-2019,20:32:25,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4OW,17-07-2019,20:32:25,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4OW,17-07-2019,20:32:25,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4OW,17-07-2019,20:32:25,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4OV,17-07-2019,18:58:00,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4OU,17-07-2019,18:57:12,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4OT,17-07-2019,18:56:46,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4OS,17-07-2019,17:46:37,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4OS,17-07-2019,17:46:37,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4OS,17-07-2019,17:46:37,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4OS,17-07-2019,17:46:37,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4OR,17-07-2019,16:18:14,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4OQ,17-07-2019,16:16:49,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4OQ,17-07-2019,16:16:49,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4OP,17-07-2019,16:15:59,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4OO,17-07-2019,16:13:41,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4OO,17-07-2019,16:13:41,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4OO,17-07-2019,16:13:41,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4ON,17-07-2019,14:37:05,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4OM,17-07-2019,12:55:19,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4OL,17-07-2019,12:54:38,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4OL,17-07-2019,12:54:38,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4OK,16-07-2019,21:36:35,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4OJ,16-07-2019,21:36:06,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4OI,16-07-2019,21:35:10,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4OI,16-07-2019,21:35:10,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4OH,16-07-2019,18:57:32,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4OG,16-07-2019,18:57:07,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4OF,16-07-2019,17:56:14,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4OF,16-07-2019,17:56:14,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4OE,16-07-2019,15:36:29,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4OD,16-07-2019,13:15:42,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4OC,15-07-2019,20:53:55,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4OB,15-07-2019,20:49:50,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4OA,15-07-2019,20:33:03,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4O9,15-07-2019,19:19:19,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4O8,15-07-2019,18:56:57,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4O7,15-07-2019,17:48:24,Uncategorized,nasi putih,"","",4000,0,0,4000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4O7,15-07-2019,17:48:24,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4O6,15-07-2019,14:57:07,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4O6,15-07-2019,14:57:07,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4O6,15-07-2019,14:57:07,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4O6,15-07-2019,14:57:07,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4O5,15-07-2019,13:06:54,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4O4,15-07-2019,11:35:52,Uncategorized,nasi putih,"","",4000,0,0,4000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4O4,15-07-2019,11:35:52,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4O3,15-07-2019,11:33:43,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4O2,15-07-2019,11:25:16,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4O1,15-07-2019,11:24:41,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4O0,15-07-2019,11:23:44,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4NZ,15-07-2019,11:22:40,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4NY,15-07-2019,10:34:42,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4NX,14-07-2019,20:32:09,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4NX,14-07-2019,20:32:09,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4NW,14-07-2019,17:43:01,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4NW,14-07-2019,17:43:01,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4NV,14-07-2019,17:04:39,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4NU,14-07-2019,13:27:43,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4NT,14-07-2019,13:23:55,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4NT,14-07-2019,13:23:55,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4NS,14-07-2019,13:00:45,Ayam,Full Refund For: 3BO4NS - Ayam Panggang,1/2 Ekor,"",0,-0,32000,-32000,-0,-0,Take Away,D'ROAST ,"","",Refund,Cash
+Outlet 1,3BO4NS,14-07-2019,12:58:16,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4NR,14-07-2019,11:32:38,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4NQ,14-07-2019,11:00:09,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4NP,14-07-2019,09:01:32,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4NO,13-07-2019,21:14:56,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4NN,13-07-2019,18:48:33,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4NM,13-07-2019,18:38:54,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4NL,13-07-2019,18:15:08,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4NL,13-07-2019,18:15:08,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4NK,13-07-2019,16:35:06,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4NJ,13-07-2019,15:58:46,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4NJ,13-07-2019,15:58:46,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4NI,13-07-2019,13:17:30,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4NH,13-07-2019,12:54:09,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4NG,13-07-2019,12:00:43,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4NF,13-07-2019,09:42:35,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4NE,12-07-2019,21:09:42,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4ND,12-07-2019,20:13:52,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4NC,12-07-2019,20:12:34,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4NB,12-07-2019,19:08:38,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4NA,12-07-2019,18:43:27,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4NA,12-07-2019,18:43:27,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4NA,12-07-2019,18:43:27,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4NA,12-07-2019,18:43:27,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4N9,12-07-2019,16:10:21,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4N8,12-07-2019,16:07:22,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4N7,12-07-2019,13:22:14,Uncategorized,nasi putih,"","",4000,0,0,4000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4N7,12-07-2019,13:22:14,Uncategorized,nasi putih,"","",4000,0,0,4000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4N7,12-07-2019,13:22:14,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4N6,12-07-2019,11:36:08,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4N5,12-07-2019,11:04:44,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4N5,12-07-2019,11:04:44,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4N4,11-07-2019,19:41:33,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4N4,11-07-2019,19:41:33,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4N3,11-07-2019,19:34:37,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4N2,11-07-2019,19:14:01,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4N2,11-07-2019,19:14:01,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4N1,11-07-2019,18:46:32,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4N0,11-07-2019,18:04:35,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4N0,11-07-2019,18:04:35,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4MZ,11-07-2019,17:43:57,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4MY,11-07-2019,16:06:10,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4MX,11-07-2019,16:01:38,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4MW,11-07-2019,14:52:07,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4MV,11-07-2019,13:38:39,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4MU,11-07-2019,12:58:03,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4MT,11-07-2019,11:03:00,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4MS,11-07-2019,10:50:33,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4MR,11-07-2019,10:50:16,Barang titipan,Kentang kering,"","",25000,0,0,25000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4MR,11-07-2019,10:50:16,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4MQ,11-07-2019,10:49:56,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4MP,10-07-2019,21:03:19,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4MO,10-07-2019,20:27:01,Uncategorized,nasi putih,"","",4000,0,0,4000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4MO,10-07-2019,20:27:01,Uncategorized,nasi putih,"","",4000,0,0,4000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4MO,10-07-2019,20:27:01,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4MN,10-07-2019,19:44:05,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4MM,10-07-2019,19:43:47,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4ML,10-07-2019,19:09:30,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4MK,10-07-2019,19:07:35,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4MK,10-07-2019,19:07:35,Paket Nasi,Ricebowl,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4MK,10-07-2019,19:07:35,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4MJ,10-07-2019,18:58:11,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4MI,10-07-2019,18:33:28,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4MH,10-07-2019,18:22:41,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4MG,10-07-2019,18:01:32,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4MF,10-07-2019,17:36:18,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4ME,10-07-2019,17:01:24,Barang titipan,Tempe kering,"","",18000,0,0,18000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4MD,10-07-2019,16:48:33,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4MC,10-07-2019,16:45:10,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,+628568186177,Payment,Cash
+Outlet 1,3BO4MB,10-07-2019,16:37:18,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4MA,10-07-2019,16:22:25,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4M9,10-07-2019,16:06:08,Uncategorized,Ricebold,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4M8,10-07-2019,15:28:35,Uncategorized,nasi putih,"","",4000,0,0,4000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4M8,10-07-2019,15:28:35,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4M7,10-07-2019,14:51:15,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4M6,10-07-2019,13:32:00,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4M6,10-07-2019,13:32:00,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4M5,10-07-2019,12:49:33,Uncategorized,Ricebold,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4M4,10-07-2019,12:22:22,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4M3,10-07-2019,12:03:06,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4M2,09-07-2019,19:44:49,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4M2,09-07-2019,19:44:49,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4M1,09-07-2019,19:00:28,Uncategorized,Ricebold,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4M0,09-07-2019,18:52:34,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4LZ,09-07-2019,18:27:08,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4LY,09-07-2019,17:24:48,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4LX,09-07-2019,17:08:45,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4LW,09-07-2019,16:29:46,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4LV,09-07-2019,15:47:17,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4LU,09-07-2019,14:17:44,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4LT,09-07-2019,13:22:31,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4LS,09-07-2019,12:55:45,Ongkir,Biaya Kurir,"","",10000,0,0,10000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4LS,09-07-2019,12:55:45,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4LR,09-07-2019,12:35:35,Uncategorized,Ricebold,"","",15000,0,0,15000,0,0,Dine in,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4LQ,09-07-2019,11:57:29,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4LP,09-07-2019,11:38:09,Uncategorized,Ricebold,"","",15000,0,0,15000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4LO,09-07-2019,11:20:02,Ayam,Ayam Panggang,1 Ekor,"",60000,0,0,60000,0,0,Take Away,Soraya Zahra,Soraya Zahra,"",Payment,Cash
+Outlet 1,3BO4LN,09-07-2019,10:08:33,Ayam,Ayam Panggang,1/2 Ekor,"",32000,0,0,32000,0,0,Take Away,Soraya Zahra,Soraya Zahra,sorayazahra@gmail.com,Payment,Cash
